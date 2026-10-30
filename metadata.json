@@ -1,0 +1,6 @@
+{
+  "name": "VOTEGUARD — Blockchain Polling System",
+  "description": "Blockchain-based public polling and campus survey platform featuring cryptographic duplicate vote prevention, timed poll lifecycles, verifiable receipts, and real-time Merkle tree audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
